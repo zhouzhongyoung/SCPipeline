@@ -218,4 +218,4 @@ python main.py
 
 研究方向: AI4Bios、数据挖掘、深度学习
 
-Email: zhouzhongyang@163.com
+Email: zhouzhongyoung@163.com
